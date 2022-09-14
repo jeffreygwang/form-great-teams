@@ -31,8 +31,21 @@ This algorithm works better for data that is at least somewhat well-distributed 
 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/39931478/190240382-dda68a1b-f24d-4633-8a2a-e9a66a31e758.png">
 
+## Running On Sample Data
+
+There are two sample files provided, one with teams of 4, and one with teams of 1. 
+
+To run each, you will have to adjust some of the run parameters at the top of the file:
+- NUM = # of people in the team
+- MINVAL = # of teams
+- NUM_TRIES = # of iterations to run algorithm
+- FILENAME = csv file name
+- NUM_COLS_METADAT = number of columns before rankings (5 in both)
+- PREFIX = output file prefix
+
 # Permissions
 
 Originally made as the team selection algorithm for Harvard Consulting on the Business and the Environment. Available on an MIT license. 
 
+![image](https://user-images.githubusercontent.com/39931478/190246797-1119b8c2-2647-44c3-a42b-f24515ee540d.png)
 
