@@ -1,5 +1,7 @@
 # The Team Selection Algorithm™
 
+This is **Release 1.0**, a production version. **Version 1.1**, using simulated annealing, is in development. 
+
 ## Introduction
 
 Let's say that we are building teams, where $cn$ people will be split into $n$ teams, where $c, n \in \mathbb{Z}^+$). 
