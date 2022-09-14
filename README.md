@@ -1,6 +1,6 @@
 # The Team Selection Algorithm™
 
-This is **Release 1.0**, a production version. **Version 1.1**, using simulated annealing, is in development. 
+This is **Release 1.0**, a production version using naïve randomness. **Version 1.1**, using simulated annealing, is in development. 
 
 ## Introduction
 
