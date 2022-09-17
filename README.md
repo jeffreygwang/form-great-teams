@@ -47,7 +47,7 @@ To run each, you will have to adjust some of the run parameters at the top of th
 
 # Permissions
 
-Originally made as the team selection algorithm for Harvard Consulting on the Business and the Environment. Available on an MIT license. 
+Originally made as the team selection algorithm for Harvard Consulting on the Business and the Environment. Used for F2022 recruiting cycle. Available on an MIT license. 
 
 ![image](https://user-images.githubusercontent.com/39931478/190246797-1119b8c2-2647-44c3-a42b-f24515ee540d.png)
 
