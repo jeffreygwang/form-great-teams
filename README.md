@@ -2,6 +2,8 @@
 
 This is **Release 1.0**, a production version using naïve randomness. **Version 1.1**, using simulated annealing, is in development. 
 
+> Used by: Harvard Consulting on Business and the Environment, Harvard Undergraduate Data Analytics Group, and other orgs.
+
 ## Introduction
 
 Let's say that we are building teams, where $cn$ people will be split into $n$ teams, where $c, n \in \mathbb{Z}^+$). 
