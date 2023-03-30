@@ -2,7 +2,7 @@
 
 This is **Release 1.0**, a production version using naïve randomness. **Version 1.1**, using simulated annealing, is in development. 
 
-> Used by: Harvard Consulting on Business and the Environment, Harvard Undergraduate Data Analytics Group, and other orgs.
+> Used by: Harvard Consulting on Business and the Environment, Harvard Undergraduate Data Analytics Group, Harvard Computer Society, and other clubs.
 
 ## Introduction
 
